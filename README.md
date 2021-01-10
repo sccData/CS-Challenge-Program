@@ -7,6 +7,8 @@
 
   <https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/>
 
-  [作业答案](https://github.com/sccData/CS-Challenge-Program/6.0001)
+  [作业答案](https://github.com/sccData/CS-Challenge-Program/tree/main/6.0001/%E4%BD%9C%E4%B8%9A)
 
+  [ppt](https://github.com/sccData/CS-Challenge-Program/tree/main/6.0001/ppt)
+  
   
